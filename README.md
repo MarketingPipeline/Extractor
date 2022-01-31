@@ -1,5 +1,5 @@
 # What does Extractor do
-This is a command line based Python script that help you extract the following;
+This is a command line based Python tool that help you extract the following;
 
 - Extract existing TAR.GZ files to your specified folder path. 
 - Downloading a TAR.GZ from a URL & extract it to your specified folder path.
