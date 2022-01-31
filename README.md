@@ -28,10 +28,12 @@ Originally unable to extract TAR.GZ files normally on a server. And wanted a fri
 
 ## How to use
 
-1. Run script using Python 3. 
+1. Download extractor.py
+
+2. Run script using Python 3. 
 (python extractor.py)
 
-2. You will be prompted with five options
+3. You will be prompted with five options
  - 1. Extract Existing Tar.GZ File
  - 2. Download & Extract Tar.GZ File
  - 3. Extract Existing ZIP file
